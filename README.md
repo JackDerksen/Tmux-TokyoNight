@@ -1,4 +1,4 @@
-This is a Tokyo Night (storm) themed version of my default [Catppuccin Tmux configuration[(https://github.com/JackDerksen/tmux).
+This is a Tokyo Night (storm) themed version of my default [Catppuccin Tmux configuration](https://github.com/JackDerksen/tmux).
 
 ![image](https://github.com/user-attachments/assets/7839afe0-66aa-4dc3-9a36-2f3698521040)
 
